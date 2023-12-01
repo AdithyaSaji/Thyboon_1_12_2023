@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: aqua;
+    height: 150px;
+    padding: 10px;
+}
+.header ul{
+    display: inline-block;
+    float: right;
+}
+.header ul li{
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.header ul form{
+    display: inline-block;
+}
+.header ul form select{
+    
+    font-size: 18px;
+    width: 200px;
+}
+.header form input{
+    padding: 10px;
+    width: 50%;
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.header a{
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.clear{
+    clear: both;
+}
+.wrapper .card-middle{
+    display: inline-block;
+   
+    padding: 10px;
+    width: 100%;
+   
+    
+
+}
+.card-middle p{
+    margin-top: 10px;
+    margin-right: 25px;
+    float: left;
+   
+    
+}
+
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 1px solid black;
+    display: block;
+}
+.card-left{
+    width:25%;
+    float: left;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 1px solid black;
+}
+.card-left img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 10px;
+}
+.subject{
+    border-top: 1px solid black;
+    padding: 10px;
+}
+.subject h4{
+    margin-bottom: 10px;
+}
+.subject button{
+    border: none;
+    color: blue;
+    font-weight: bolder;
+    font-size: 14px;
+    cursor: pointer;
+    float: right;
+    margin-right: 25px;
+}
+.subject button:hover{
+    font-size: 16px;
+}
+.subject p{
+    margin-top: 30px;
+}
+.dropdown{
+    border-top: 1px solid black;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+.dropdown select{
+    border: none;
+    font-size: 14px;
+}
+.playlist{
+    padding: 10px;
+    display: block;
+    height: 100px;
+}
+.playlist h4{
+    margin-bottom: 10px;
+}
+.list{
+    width:32%;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
+.list h3{
+    color: blue;
+}
+.card-search{
+    float: left;
+    width: 74.7%;
+    border: 1px solid blue;
+    line-height: 100px;
+    background-image: url('images/searchbg.jpeg');
+}
+.card-search form {
+    padding-left: 30px;
+}
+.card-search form  input{
+   width: 70%;
+   line-height: 30px;
+   border-radius: 4px;
+   padding: 2px;
+   font-size: 16px;
+}
+.slider{
+    width: 70%;
+    height: 300px;
+    float: left;
+    padding: 30px;
+    border-radius: 4px;
+}
+.slider img{
+    width: 100%;
+    height: 300px;
+}
+.clear{
+    clear: both;
+} */
